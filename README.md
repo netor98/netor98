@@ -1,5 +1,8 @@
 # 💫 About Me:
-Currently studying<br>:b
+🔹 Software Engineering 
+🔹 Focused on building effective software solutions
+🔹 Learning new technologies every day
+🔹 Looking for new opportunities
 
 
 # 💻 Tech Stack:
