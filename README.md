@@ -1,8 +1,4 @@
-# 💫 About Me:
-🔹 Software Engineering 
-🔹 Focused on building effective software solutions
-🔹 Learning new technologies every day
-🔹 Looking for new opportunities
+
 
 
 # 💻 Tech Stack:
